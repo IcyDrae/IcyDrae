@@ -1,9 +1,6 @@
 # Hello world
 
-[![](https://visitcount.itsvg.in/api?id=IcyDrae&icon=0&color=0)](https://visitcount.itsvg.in) (past 7 days)
-
 I am a Full Stack Engineer, focusing more on meta-skills than hard-skills. I like **GPLv3** way too much & in my free time I work on my own open source platforms.
-
 
 # My Tech Stack
 
