@@ -37,8 +37,6 @@ However, if you find my work useful and are happy with it or just want to encour
 
 I will put that money towards the projects' hosting costs and also buy myself a coffee.
 
-<!--
 # Contact me
 
-You can reach out to me at *hey@dev-handbook.net*
--->
+You can reach out to me at *icydrae@hotmail.com*
