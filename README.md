@@ -22,9 +22,9 @@ I am a Full Stack Engineer, focusing more on meta-skills than hard-skills. I lik
 * [spotify-web-api-sdk](https://github.com/IcyDrae/spotify-web-api-sdk) - SDK for Spotify
   * ![](https://img.shields.io/github/stars/IcyDrae/spotify-web-api-sdk?style=flat-square)
 * [website](https://github.com/IcyDrae/website) - My personal website and blog using local markdown files
-  * https://dev-handbook.net
+  * https://dev-handbook.netlify.app
 * [99-Names-of-Allah](https://github.com/IcyDrae/99-Names-of-Allah) - The 99 Beautiful Names of Allah
-  * https://99-names-of-allah.com
+  * https://99-names-of-allah.netlify.app
 * [router](https://github.com/IcyDrae/router) - HTTP Router written in PHP
 
 .. and some [more](https://github.com/IcyDrae?tab=repositories).
@@ -40,7 +40,6 @@ However, if you find my work useful and are happy with it or just want to encour
 
 I will put that money towards the projects' hosting costs and also buy myself a coffee.
 
-
 # Contact me
 
-You can reach out to me at *hey@dev-handbook.net*
+You can reach out to me at *icydrae@hotmail.com*
