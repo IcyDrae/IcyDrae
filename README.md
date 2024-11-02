@@ -8,6 +8,10 @@ I am a Full Stack Engineer, focusing more on meta-skills than hard-skills. I lik
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/rgj/my-stack)
 
+# My LeetCode profile
+
+[https://leetcode.com/u/IcyDrae/](https://leetcode.com/u/IcyDrae/)
+
 # My Codewars profile
 
 [![Codewars](https://www.codewars.com/users/IcyDrae/badges/large)](https://www.codewars.com/users/IcyDrae)
